@@ -1,7 +1,6 @@
 
 public class AppTest {
-	public void testShow() {
-		System.out.println("This is coming from app test class");
-	}
-
+	public AppTest() {
+		System.out.println("This is coming from app test class constructor");
+	} 
 }
